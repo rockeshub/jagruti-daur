@@ -582,7 +582,7 @@ body.offcanvas {
   width: 100%;
   float: left;
   margin-bottom: 40px;
-  height: 160px;
+  height: inherit;
   position: relative; }
   .colorlib-feature .colorlib-icon {
     position: absolute;
